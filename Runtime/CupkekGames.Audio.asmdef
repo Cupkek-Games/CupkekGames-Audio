@@ -1,0 +1,16 @@
+{
+    "name": "CupkekGames.Audio",
+    "rootNamespace": "CupkekGames.Audio",
+    "references": [
+        "GUID:627a6a50a96ba294eb51be4e4019a893"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
