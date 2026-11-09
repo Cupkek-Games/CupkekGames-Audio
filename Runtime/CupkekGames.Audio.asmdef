@@ -2,7 +2,8 @@
     "name": "CupkekGames.Audio",
     "rootNamespace": "CupkekGames.Audio",
     "references": [
-        "GUID:627a6a50a96ba294eb51be4e4019a893"
+        "GUID:627a6a50a96ba294eb51be4e4019a893",
+        "GUID:c95c4fa533d6fdb47871e2223c77f6d0"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

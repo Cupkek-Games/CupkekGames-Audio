@@ -8,10 +8,12 @@
   },
   "unity": "6000.0",
   "documentationUrl": "https://docs.cupkek.games/",
-  "description": "Audio backend + SFX cue interfaces for CupkekGames games.",
+  "description": "Audio backend, cue interfaces and a cue catalog for CupkekGames games.",
   "keywords": [
     "Audio",
     "CupkekGames"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "com.cupkekgames.services": "0.2.1"
+  }
 }
