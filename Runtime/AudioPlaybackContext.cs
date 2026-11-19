@@ -16,5 +16,12 @@ namespace CupkekGames.Audio
 
         /// <summary>For music: stop all currently-playing music on this channel before starting the new cue.</summary>
         public bool StopAllOthers = true;
+
+        /// <summary>
+        /// For one-shots (UI, SFX): play this many semitones above (or below)
+        /// the cue's own pitch, on top of its randomisation. A quick run of
+        /// pickups steps it up. 0 plays the cue as authored.
+        /// </summary>
+        public float PitchSemitones;
     }
 }
